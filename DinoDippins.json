@@ -9,7 +9,8 @@
             "/Game/Packs/Wasteland/Vehicles/Car/Car_Vehicle_BP.Car_Vehicle_BP_C",
             "/Game/Packs/Steampunk/Dinos/Zeppelin/Zeppelin_Character_BP.Zeppelin_Character_BP_C",
             "/Game/PrimalEarth/Dinos/Ptero/Ptero_Character_BP.Ptero_Character_BP_C",
-            "/Game/PrimalEarth/Dinos/Para/Para_Character_BP.Para_Character_BP_C"
+            "/Game/PrimalEarth/Dinos/Para/Para_Character_BP.Para_Character_BP_C",
+            "/Game/PrimalEarth/Dinos/Raptor/_Character_BP.Raptor_Character_BP_C"
         ],
         "weeksarrays": [
             {
@@ -71,7 +72,7 @@
                         "chancetodrop": 0.9
                     }
                 ],
-                "dipstogive": 5
+                "dipstogive": 7
             },
             {
                 "weekforoptions": [
@@ -136,7 +137,7 @@
                         "chancetodrop": 0.95
                     }
                 ],
-                "dipstogive": 5
+                "dipstogive": 7
             },
             {
                 "weekforoptions": [
@@ -197,7 +198,7 @@
                         "chancetodrop": 0.9
                     }
                 ],
-                "dipstogive": 5
+                "dipstogive": 7
             },
             {
                 "weekforoptions": [
@@ -258,7 +259,7 @@
                         "chancetodrop": 0.8
                     }
                 ],
-                "dipstogive": 5
+                "dipstogive": 7
             },
             {
                 "weekforoptions": [
@@ -323,7 +324,7 @@
                         "chancetodrop": 0.4
                     }
                 ],
-                "dipstogive": 5
+                "dipstogive": 7
             },
             {
                 "weekforoptions": [
@@ -384,7 +385,7 @@
                         "chancetodrop": 0.3
                     }
                 ],
-                "dipstogive": 5
+                "dipstogive": 7
             }
         ]
     }
