@@ -11,6 +11,12 @@
             "/Game/PrimalEarth/Dinos/Ptero/Ptero_Character_BP.Ptero_Character_BP_C",
             "/Game/PrimalEarth/Dinos/Para/Para_Character_BP.Para_Character_BP_C",
             "/Game/PrimalEarth/Dinos/Raptor/Raptor_Character_BP.Raptor_Character_BP_C"
+            "/Game/PrimalEarth/Dinos/ShoulderDragon/ShoulderDragon_Character_BP.ShoulderDragon_Character_BP_C"
+            "/Game/PrimalEarth/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Autumn.ShoulderDragon_Character_BP_Autumn_C"
+            "/Game/PrimalEarth/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Spring.ShoulderDragon_Character_BP_Spring_C"
+            "/Game/PrimalEarth/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Summer.ShoulderDragon_Character_BP_Summer_C"
+            "/Game/PrimalEarth/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Winter.ShoulderDragon_Character_BP_Winter_C"
+            "/Game/PrimalEarth/Dinos/G_EdenHelicoprion/G_EdenHelicoprion_Character_BP.G_EdenHelicoprion_Character_BP_C"
         ],
         "weeksarrays": [
             {
@@ -136,6 +142,7 @@
                         "dino": "/Game/PrimalEarth/Dinos/BoaFrill/BoaFrill_Character_BP.BoaFrill_Character_BP_C",
                         "chancetodrop": 0.95
                     }
+                    {    "dino": "/Game/ASA/Dinos/Bison/Bison_Character_BP.Bison_Character_BP_C"
                 ],
                 "dipstogive": 7
             },
